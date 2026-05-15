@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I'm JP — Juan-Pablo Gomez
+Hi, I'm (JP) Juan-Pablo Gomez
 ServiceNow architect. CSDM, CMDB, ITOM — mostly the parts everyone agrees matter and nobody gets rewarded for doing.
 I build small, scoped ServiceNow apps that solve a specific operational gap, document them properly, and ship them on GitHub and the ServiceNow Developer Share. No AI dependencies in the runtime layer. Designed to run cleanly on FedRAMP / IL5 / IRAP / self-hosted instances.
 This profile is where the work lives.
